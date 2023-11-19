@@ -1,0 +1,13 @@
+.drumpad {
+    margin-top: 2vh;
+    margin-right: 2vh;
+    width: 10vw;
+    height: 8vh;
+    background-color: #b9b9bb;
+}
+
+.innerLetter {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
